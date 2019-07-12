@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/i_project"
+        android:checked="true"
+        android:icon="@drawable/tab_project_selector"
+        android:title="@string/project_center" />
+    <item
+        android:id="@+id/i_message"
+        android:icon="@drawable/tab_msg_selector"
+        android:title="@string/message_center" />
+    <item
+        android:id="@+id/i_personal"
+        android:icon="@drawable/tab_me_selector"
+        android:title="@string/personal_center" />
+</menu>

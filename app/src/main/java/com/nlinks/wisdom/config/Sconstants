@@ -1,0 +1,9 @@
+class Sconstants {
+    companion object {
+        const val STR0 = "0";
+        const val STR1 = "1";
+        const val STR2 = "2";
+        const val STR3 = "3";
+
+    }
+}

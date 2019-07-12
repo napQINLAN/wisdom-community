@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">智慧社区</string>
+    <string name="project_center">项目中心</string>
+    <string name="message_center">消息中心</string>
+    <string name="personal_center">个人中心</string>
+    <string name="login">登录</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="please_input_username">请输入用户名</string>
+    <string name="please_input_psw">请输入密码</string>
+    <string name="is_logining">正在登录</string>
+    <string name="important_project_management">重点项目管理</string>
+    <string name="project_search_hint">项目名称/街道名称/单位名称</string>
+    <string name="important_project_set">重点项目设置</string>
+    <string name="search">搜索</string>
+    <string name="street_name">街道名称</string>
+    <string name="project_name">项目名称</string>
+</resources>
